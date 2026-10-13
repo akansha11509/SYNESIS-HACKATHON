@@ -1,0 +1,6 @@
+{
+  "name": "AegisFlow - Hospital Surge & Capacity Orchestration Engine",
+  "description": "Dynamic patient flow engine, M/M/c queueing theory simulator, and Linear Programming optimizer for overcrowded hospitals and emergency departments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
